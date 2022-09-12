@@ -1,0 +1,8 @@
+POST /resources HTTP/1.1
+Host: 0a7d00df046984edc08bd41d00f000f0.web-security-academy.net
+Cookie: session=CtBhM8h2rYjvCISe6reL4FEjMuuDG0tZ
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: %s
+
+%s
